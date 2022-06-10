@@ -1,4 +1,4 @@
-  <img src="https://github.com/MrBilal14/MrBilal14/blob/main/Bilal%20fire.png" alt="">
+  <p align="center"><img width="100%" height="auto" src="https://github.com/MrBilal14/MrBilal14/blob/main/undraw_programming_re_kg9v.svg" height="175px" alt=""></p>
   
   <p align="center">Hey!, my name is Bilal and I really love programming/coding. I started my coding journey when I was 12 Years old and have been going since. My main Focus is Website       development (HTML/CSS/JS).</p>
 
